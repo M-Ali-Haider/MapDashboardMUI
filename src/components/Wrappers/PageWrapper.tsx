@@ -14,6 +14,7 @@ const PageWrapper = ({ children }: { children: ReactNode }) => {
       sx={{
         px: { xs: "20px", md: `${isSidebarOpen ? "36px" : "8px"}` },
         pt: "28px",
+        width: "100%",
         bgcolor: "white",
         maxHeight: "calc(100vh - 84px)",
         maxWidth: "1440px",

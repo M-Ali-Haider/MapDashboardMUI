@@ -1,0 +1,58 @@
+{
+  "pages": {
+    "/(Auth)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(Auth)/page.js"
+    ],
+    "/(Auth)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(Auth)/layout.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/job-seeker/(Pages)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/job-seeker/(Pages)/page.js"
+    ],
+    "/job-seeker/(Pages)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/job-seeker/(Pages)/layout.css",
+      "static/chunks/app/job-seeker/(Pages)/layout.js"
+    ],
+    "/job-seeker/(Pages)/contact-us/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/job-seeker/(Pages)/contact-us/page.css",
+      "static/chunks/app/job-seeker/(Pages)/contact-us/page.js"
+    ],
+    "/job-seeker/(Pages)/profile/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/job-seeker/(Pages)/profile/page.css",
+      "static/chunks/app/job-seeker/(Pages)/profile/page.js"
+    ],
+    "/job-seeker/(Pages)/account-settings/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/job-seeker/(Pages)/account-settings/page.js"
+    ],
+    "/job-seeker/(Pages)/explore-jobs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/job-seeker/(Pages)/explore-jobs/page.js"
+    ],
+    "/job-seeker/(Pages)/applications/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/job-seeker/(Pages)/applications/page.js"
+    ]
+  }
+}

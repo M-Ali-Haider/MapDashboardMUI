@@ -1,0 +1,8 @@
+{
+  "/job-seeker/(Pages)/contact-us/page": "app/job-seeker/(Pages)/contact-us/page.js",
+  "/job-seeker/(Pages)/page": "app/job-seeker/(Pages)/page.js",
+  "/job-seeker/(Pages)/profile/page": "app/job-seeker/(Pages)/profile/page.js",
+  "/job-seeker/(Pages)/account-settings/page": "app/job-seeker/(Pages)/account-settings/page.js",
+  "/job-seeker/(Pages)/explore-jobs/page": "app/job-seeker/(Pages)/explore-jobs/page.js",
+  "/job-seeker/(Pages)/applications/page": "app/job-seeker/(Pages)/applications/page.js"
+}
