@@ -1,0 +1,7 @@
+"&::-webkit-scrollbar": {
+          display: "none",
+        },
+        scrollbarWidth: "none",
+
+
+        transition: "all 0.5s cubic-bezier(0.76,0,0.24,1)",
